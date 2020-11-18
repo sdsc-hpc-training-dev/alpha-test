@@ -1,7 +1,7 @@
 ---
 layout: default
 title: subsection0
-parent: section1
+parent: section2
 nav_order: 0
 ---
 
